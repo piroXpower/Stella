@@ -1,11 +1,11 @@
 [telegram]
 api_id = 0
-api_hash = ""
+api_hash = "5a82313211da04d63297bd4de436228c"
 
 [tekegram.bot]
-bot_token = ""
-name = ""
-username = ""
+bot_token = "5236314643:AAE3Hrdb58O84_fYlF3sXqFTZ1Gd58G8GY4"
+name = "TanyaSecurity"
+username = "TanyaSecurityBot"
 user_id = 0
 
 [database]
@@ -25,4 +25,4 @@ chat_id = 0
 chat_id = 0
 
 [api.stella]
-api_key = ""
+api_key = "3898418"
